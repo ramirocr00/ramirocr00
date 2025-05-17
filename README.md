@@ -14,31 +14,28 @@ Creative Designer & 3D Modeler from Turkey
 
 ---
 
-🧰 Design & 3D Toolbox
+## 🎨 Design & 3D Toolbox
 
 ### 🖌️ Adobe Creative Tools  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)  
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-E3056C?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) 
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white) 
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-E3056C?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
 
 ### 🎥 3D & Motion  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white) 
+![3ds Max](https://img.shields.io/badge/3ds%20Max-003A60?style=for-the-badge&logo=autodesk&logoColor=white) 
 
 ---
 
-💻 Tech Side (Bonus)
+## 💻 Tech Side (Bonus)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
 
-📬 Connect With Me
+## 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
-
-> _"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs_
