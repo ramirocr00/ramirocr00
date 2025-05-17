@@ -25,6 +25,8 @@ Creative Designer & 3D Modeler from Turkey
 ### 🎥 3D & Motion  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white) 
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-003A60?style=for-the-badge&logo=autodesk&logoColor=white) 
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=maxon&logoColor=white)
+![Element 3D](https://img.shields.io/badge/Element%203D-151515?style=for-the-badge&logo=aftereffects&logoColor=white)
 
 ---
 
