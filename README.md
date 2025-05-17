@@ -1,16 +1,44 @@
-## Hi there 👋
+🌟 Hey there, I'm Ramiro
 
-<!--
-**ramirocr00/ramirocr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative Designer & 3D Modeler from Turkey
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+
+🍃 Passionate about creating clean, modern and user-focused designs  
+🧩 Skilled in Adobe Creative Suite – Photoshop, Illustrator, After Effects & more  
+🎨 I blend aesthetics with functionality to craft intuitive interfaces  
+🔧 Also experienced in 3D modeling using Blender – from props to environments  
+🛠️ Love turning visual concepts into interactive experiences  
+
+---
+
+🧰 Design & 3D Toolbox
+
+### 🖌️ Adobe Creative Tools  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)  
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-E3056C?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)  
+
+### 🎥 3D & Motion  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)  
+
+---
+
+💻 Tech Side (Bonus)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+> _"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs_
